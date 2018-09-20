@@ -1,0 +1,3 @@
+rootProject.name = 'Practical5WebApi'
+
+include ':app'
